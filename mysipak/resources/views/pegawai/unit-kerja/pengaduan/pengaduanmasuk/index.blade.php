@@ -7,7 +7,7 @@
             </div>
         </div>
         <div class="card-body">
-            <table class="table table-bordered">
+            <table id="example1" class="table table-bordered table-striped">
                 <thead>
                     <th width="30px">No</th>
                     <th width="120px">Aksi</th>
