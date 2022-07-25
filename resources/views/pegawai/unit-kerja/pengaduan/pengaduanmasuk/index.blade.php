@@ -3,7 +3,7 @@
     <div class="card">
         <div class="card-header card-success card-outline">
             <div class="card-title">
-                Masuk
+                Pengaduan Masuk
             </div>
         </div>
         <div class="card-body">

@@ -1,7 +1,7 @@
 <x-module.pegawai-unitkerja>
     <x-template.button.back-button url="pegawai/unit-kerja/pengajuan-baru" />
     <div class="card">
-        <div class="card-header">
+        <div class="card-header card-dark card-outline">
             <div class="card-title">
               Pengajuan Baru
             </div>
@@ -28,7 +28,7 @@
         </div>
     </div>
     <div class="card">
-        <div class="card-header">
+        <div class="card-header card-dark card-outline">
             <div class="card-title">
                 Berkas File
             </div>

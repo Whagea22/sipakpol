@@ -15,7 +15,7 @@
                             <label for="" class="control-label">Nama Pegawai yang dituju</label>
                             <select name="id_pegawai__pengaduan" class="form-control">
                                 @foreach ($list_pegawai as $Pegawai)
-                                    <option value="{{ $Pegawai->id }}">{{ $Pegawai->nama }}</option>
+                                    <option value="{{ $Pegawai->id }}">{{ $Pegawai->nama }}, {{ $Pegawai->gelar_belakang }}</option>
                                 @endforeach
                             </select>
                         </div>

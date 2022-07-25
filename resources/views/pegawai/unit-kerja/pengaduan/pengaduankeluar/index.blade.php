@@ -3,7 +3,7 @@
     <div class="card">
         <div class="card-header card-danger card-outline">
             <div class="card-title">
-                Keluar
+                Pengaduan Keluar
             </div>
             <a href="{{ url('pegawai/unit-kerja/pengaduan/pengaduankeluar/create') }}" class="float-right btn btn-primary"><Tambah class="fa fa-plus"> Tambah Pengaduan Keluar </i></a>
         </div>
